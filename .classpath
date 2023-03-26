@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="gestion des produit/src"/>
+	<classpathentry kind="lib" path="gestion des produit/dist/gestion_des_produit.jar"/>
+	<classpathentry kind="lib" path="gestion des produit/dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="gestion des produit/dist/lib/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="gestion des produits/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="gestion des produits/lib/mysql-connector-java-5.0.5-bin.jar"/>
+	<classpathentry kind="output" path="gestion des produit/build/classes"/>
+</classpath>
